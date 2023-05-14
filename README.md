@@ -27,12 +27,12 @@ Display menu options, website data, and save data (`output.txt`).
 1. Compile the program:
    ```sh
    g++ -o app app.cpp bst.cpp website.cpp
-   '''
+   
 
 2. Run the executable:
    ```sh
    ./app
-   '''
+   
 
 ## Usage
 
